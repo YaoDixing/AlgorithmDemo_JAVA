@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bb3c7bc-28ff-424d-9410-1bd9697e8420" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AlgorithmDemo/AlgorithmDemo.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AlgorithmDemo_JAVA.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmDemo/one/Practice1_1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmDemo/one/Practice1_1$SortMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmDemo/one/Practice1_1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6bb3c7bc-28ff-424d-9410-1bd9697e8420" name="Default" comment="" />
     <ignored path="AlgorithmDemo_JAVA.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -159,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470585665813</updated>
-      <workItem from="1470585669313" duration="8000" />
+      <workItem from="1470585669313" duration="68000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8000" />
+    <option name="totallyTimeSpent" value="68000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
